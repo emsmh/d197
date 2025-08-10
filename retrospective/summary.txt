@@ -1,0 +1,9 @@
+How was the merge conflict resolved for part E1?
+
+The merge conflict was resolved by editing the readme file to remove extra lines that were causing the conflict.
+Once those were removed, the merge completed.
+
+3 Changes made for part C1:
+about.html : added name under the first p tag since it is an introduction page.
+contact.html : added hours so people knew when they would expect a response.
+team.html : added hard working and ready to help to describe the team.

@@ -1,0 +1,48 @@
+commit 2019ab4459decdda6c0320936bf8601f34b78ba5
+Merge: 3a2ccb2 40d4d27
+Author: ejosep13 <ejosep13@wgu.edu>
+Date:   Thu Oct 17 12:57:42 2024 -0400
+
+    conflic resolved
+
+commit 3a2ccb29be30ae4c483b8b4004a58a9d1e708ebb
+Author: ejosep13 <ejosep13@wgu.edu>
+Date:   Thu Oct 17 12:53:39 2024 -0400
+
+    added version number to working readme
+
+commit 40d4d27eface5d4376ef2cd90728d46d154e597a
+Author: ejosep13 <ejosep13@wgu.edu>
+Date:   Thu Oct 17 12:45:16 2024 -0400
+
+    added student id number
+
+commit 743c52e2b5ad4a5d092a3d157926bc0c7c55447c
+Author: ejosep13 <ejosep13@wgu.edu>
+Date:   Thu Oct 17 12:37:48 2024 -0400
+
+    added working hard and ready to help in a p tag
+
+commit 5655b092247f1f39813904de2f9e4e69c98731e0
+Author: ejosep13 <ejosep13@wgu.edu>
+Date:   Thu Oct 17 12:34:38 2024 -0400
+
+     added hours in contact p tag
+
+commit 9f6c9a5227a895f5629ab28489114456a226beb5
+Author: ejosep13 <ejosep13@wgu.edu>
+Date:   Thu Oct 17 12:28:49 2024 -0400
+
+     added name in p tag under about
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit
